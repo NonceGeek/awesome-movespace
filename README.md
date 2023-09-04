@@ -10,9 +10,9 @@ Multiple repoositories are included in the movespace, here is the list:
 MoveDID is a DID protocol that is implemented Aptos.The vision of MoveDID is to be the foundation for the next generation of large-scale Web3 finance and Web3 society. MoveDID could be used for 3 types of subjects: human, organization, and bot.
 The implementation follows the [did@w3c](https://www.w3.org/TR/did-core/).
 
-* [Web3 Vector Dataset](https://github.com/NonceGeek/web3_vector_dataset)
+* [MovespaceDB](https://github.com/NonceGeek/movespace_db)
 
-Web3 Vector Dataset is a project to make vector dataset as Web3 Public Good and perma storage on Arweave Network. Public Vector Dataset allow public read permission, and using **Aptos Smart Contract** as the governancer of the write permission. It is also supportted the interaction with private vector dataset. This project are supportted by Embedbase.
+MovespaceDB is a project to make vector dataset as Web3 Public Good and perma storage on Arweave Network. Public Vector Dataset allow public read permission, and using **Aptos Smart Contract** as the governancer of the write permission. It is also supportted the interaction with private vector dataset. This project are supportted by Embedbase.
 
 * [AI Scaffold Aptos](https://github.com/NonceGeek/scaffold-aptos-based-on-AI)
 
