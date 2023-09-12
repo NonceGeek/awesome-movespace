@@ -17,3 +17,8 @@ MovespaceDB is a project to make vector dataset as Web3 Public Good and perma st
 * [AI Scaffold Aptos](https://github.com/NonceGeek/scaffold-aptos-based-on-AI)
 
 AI-based Scaffold Aptos is a smart contract and dApp programming copilot built on OpenAI and Web3 Vector Dataset.
+
+* [ZK Credentials](https://github.com/NonceGeek/zk_credential/)
+
+Combine zk data in credentials to achieve selective disclosure of credentials. Use zk-credentials as items of vector dataset to implement zk-based vector database.
+
