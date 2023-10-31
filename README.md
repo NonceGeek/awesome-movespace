@@ -1,7 +1,9 @@
 # awesome-movespace [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 The awesome projects in MoveSpace Cluster.
 
-[MoveSpace](https://movespace.xyz) is AI-powered ZKML Decentralized Datahouse. We power LLMs with verifiable tamperproof datasets and developers with tamperproof zk outputs and data. Build new dapps with our database backend and AI-powered developer copilots today.
+[MoveSpace](https://movespace.xyz) is the data incentive and transparency layer on Web 3. With decentralized data labeling and on-chain proof, using vector data, MoveSpace brings higher transparency to data labeling and data usage, providing high-performance AI and dapps with accelerated data engineering.
+
+As of early November 2023, we have completed demos in multiple app settings such as gaming, DID, LLM, and search engines based on MoveSpaceDB, and support multiple EVM and non-EVM ecosystems.
 
 Multiple repoositories are included in the movespace, here is the list:
 
