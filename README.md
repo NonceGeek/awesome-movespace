@@ -5,7 +5,7 @@ The awesome projects in MoveSpace Cluster.
 
 As of early November 2023, we have completed demos in multiple app settings such as gaming, DID, LLM, and search engines based on MoveSpaceDB, and support multiple EVM and non-EVM ecosystems.
 
-Multiple repoositories are included in the movespace, here is the list:
+Multiple repositories are included in the movespace, here is the list:
 
 * [MoveDID](https://github.com/NonceGeek/MoveDID)
 
