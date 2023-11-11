@@ -1,7 +1,8 @@
 # awesome-movespace [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-The awesome projects in MoveSpace Cluster.
 
-[MoveSpace](https://movespace.xyz) is the data incentive and transparency layer on Web 3. With decentralized data labeling and on-chain proof, using vector data, MoveSpace brings higher transparency to data labeling and data usage, providing high-performance AI and dapps with accelerated data engineering.
+The awesome projects that related to MoveSpace.
+
+[MoveSpace](https://movespace.xyz), an AI-powered ZKML Decentralized Datahouse. With decentralized data labeling and on-chain proof, using vector data, MoveSpace brings higher transparency to data labeling and data usage, providing high-performance AI and dapps with accelerated data engineering.
 
 As of early November 2023, we have completed demos in multiple app settings such as gaming, DID, LLM, and search engines based on MoveSpaceDB, and support multiple EVM and non-EVM ecosystems.
 
@@ -14,11 +15,31 @@ The implementation follows the [did@w3c](https://www.w3.org/TR/did-core/).
 
 * [MovespaceDB](https://github.com/NonceGeek/movespace_db)
 
-MovespaceDB is a project to make vector dataset as Web3 Public Good and perma storage on Arweave Network. Public Vector Dataset allow public read permission, and using **Aptos Smart Contract** as the governancer of the write permission. It is also supportted the interaction with private vector dataset. This project are supportted by Embedbase.
+An AI-powered ZKML Decentralized Datahouse. With decentralized data labeling and on-chain proof, using vector data, MoveSpace brings higher transparency to data labeling and data usage, providing high-performance AI and dapps with accelerated data engineering.
 
-* [AI Scaffold Aptos](https://github.com/NonceGeek/scaffold-aptos-based-on-AI)
+  * [Tai Shang Micro FaaS System](https://github.com/NonceGeek/tai_shang_micro_faas_system)
 
-AI-based Scaffold Aptos is a smart contract and dApp programming copilot built on OpenAI and Web3 Vector Dataset.
+  A Micro FaaS System that using Elixir snippets as edge funtions at runtime, which runs API module and data pipeline of Movespace.
+
+  * [Movespace DB Uploader CLI](https://github.com/NonceGeek/movespace_db_uploader_cli)
+
+  A CLI tool to interact with Movespace.
+
+  * [Movespace Greenfield Client](https://github.com/NonceGeek/movespace-greenfield-client)
+
+  dApp as a client, to upload data and metadata to greenfield network.
+
+* Movespace-based Apps/dApps
+
+The awesome apps and dApps that buidl based on Movespace.
+
+  * [AI Scaffold Aptos](https://github.com/NonceGeek/scaffold-aptos-based-on-AI)
+
+  AI-based Scaffold Aptos is a smart contract and dApp programming copilot built on OpenAI and Web3 Vector Dataset.
+
+  * [AI-based Smart Contract Explorer](https://github.com/NonceGeek/ai-based-smart-contract-explorer)
+
+  An Ethereum Smart Contract Explorer based on AI.
 
 * [ZK Credentials](https://github.com/NonceGeek/zk_credential/)
 
