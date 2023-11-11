@@ -15,33 +15,32 @@ The implementation follows the [did@w3c](https://www.w3.org/TR/did-core/).
 
 * [MovespaceDB](https://github.com/NonceGeek/movespace_db)
 
-An AI-powered ZKML Decentralized Datahouse. With decentralized data labeling and on-chain proof, using vector data, MoveSpace brings higher transparency to data labeling and data usage, providing high-performance AI and dapps with accelerated data engineering.
+  An AI-powered ZKML Decentralized Datahouse. With decentralized data labeling and on-chain proof, using vector data, MoveSpace brings higher transparency to data labeling and data usage, providing high-performance AI and dapps with accelerated data engineering.	
 
-  * [Tai Shang Micro FaaS System](https://github.com/NonceGeek/tai_shang_micro_faas_system)
+  * [Tai Shang Micro FaaS System](https://github.com/NonceGeek/tai_shang_micro_faas_system) 
 
-  A Micro FaaS System that using Elixir snippets as edge funtions at runtime, which runs API module and data pipeline of Movespace.
+    A Micro FaaS System that using Elixir snippets as edge funtions at runtime, which runs API module and data pipeline of Movespace.\
 
   * [Movespace DB Uploader CLI](https://github.com/NonceGeek/movespace_db_uploader_cli)
 
-  A CLI tool to interact with Movespace.
+      A CLI tool to interact with Movespace.
 
-  * [Movespace Greenfield Client](https://github.com/NonceGeek/movespace-greenfield-client)
+    * [Movespace Greenfield Client](https://github.com/NonceGeek/movespace-greenfield-client)
 
-  dApp as a client, to upload data and metadata to greenfield network.
+      dApp as a client, to upload data and metadata to greenfield network.
 
 * Movespace-based Apps/dApps
 
-The awesome apps and dApps that buidl based on Movespace.
+  The awesome apps and dApps that buidl based on Movespace.
 
   * [AI Scaffold Aptos](https://github.com/NonceGeek/scaffold-aptos-based-on-AI)
 
-  AI-based Scaffold Aptos is a smart contract and dApp programming copilot built on OpenAI and Web3 Vector Dataset.
+     AI-based Scaffold Aptos is a smart contract and dApp programming copilot built on OpenAI and Web3 Vector Dataset.
 
   * [AI-based Smart Contract Explorer](https://github.com/NonceGeek/ai-based-smart-contract-explorer)
 
-  An Ethereum Smart Contract Explorer based on AI.
+    An Ethereum Smart Contract Explorer based on AI.
 
 * [ZK Credentials](https://github.com/NonceGeek/zk_credential/)
 
 Combine zk data in credentials to achieve selective disclosure of credentials. Use zk-credentials as items of vector dataset to implement zk-based vector database.
-
