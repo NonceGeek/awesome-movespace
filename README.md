@@ -23,11 +23,11 @@ The implementation follows the [did@w3c](https://www.w3.org/TR/did-core/).
 
   * [Movespace DB Uploader CLI](https://github.com/NonceGeek/movespace_db_uploader_cli)
 
-      A CLI tool to interact with Movespace.
+    A CLI tool to interact with Movespace.
 
-    * [Movespace Greenfield Client](https://github.com/NonceGeek/movespace-greenfield-client)
+  * [Movespace Greenfield Client](https://github.com/NonceGeek/movespace-greenfield-client)
 
-      dApp as a client, to upload data and metadata to greenfield network.
+    dApp as a client, to upload data and metadata to greenfield network.
 
 * Movespace-based Apps/dApps
 
