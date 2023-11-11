@@ -19,7 +19,7 @@ The implementation follows the [did@w3c](https://www.w3.org/TR/did-core/).
 
   * [Tai Shang Micro FaaS System](https://github.com/NonceGeek/tai_shang_micro_faas_system) 
 
-    A Micro FaaS System that using Elixir snippets as edge funtions at runtime, which runs API module and data pipeline of Movespace.\
+    A Micro FaaS System that using Elixir snippets as edge funtions at runtime, which runs API module and data pipeline of Movespace.
 
   * [Movespace DB Uploader CLI](https://github.com/NonceGeek/movespace_db_uploader_cli)
 
