@@ -15,7 +15,7 @@ The implementation follows the [did@w3c](https://www.w3.org/TR/did-core/).
 
 * [MovespaceDB](https://github.com/NonceGeek/movespace_db)
 
-  An AI-powered ZKML Decentralized Datahouse. With decentralized data labeling and on-chain proof, using vector data, MoveSpace brings higher transparency to data labeling and data usage, providing high-performance AI and dapps with accelerated data engineering.	
+  An AI-powered Decentralized Datahouse for onchain data labeling and vector data. With decentralized data labeling and on-chain proof, using vector data, MoveSpace brings higher transparency to data labeling and data usage, providing high-performance AI and dapps with accelerated data engineering.	
 
   * [Tai Shang Micro FaaS System](https://github.com/NonceGeek/tai_shang_micro_faas_system) 
 
